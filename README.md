@@ -21,7 +21,7 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Step 5: Trigger the workflow
 
-_You've now got a fully functioning workflow! :smile:
+_You've now got a fully functioning workflow!
 
 Your new action will run any time a pull request has been opened.
 
@@ -51,5 +51,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-
-:smile:
